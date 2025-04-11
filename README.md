@@ -4,7 +4,7 @@ Welcome to an exciting AI Chess simulation where two legendary algorithms — **
 
 ---
 
-## 👥 Team: SmartThinkers
+## 👥 Team Members: 
 
 | Name         | Roll Number |
 |--------------|-------------|
