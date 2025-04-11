@@ -9,7 +9,7 @@ Welcome to an exciting AI Chess simulation where two legendary algorithms — **
 | Name         | Roll Number |
 |--------------|-------------|
 | Dharmendra Chauhan | CS24M115      |
-| Kodela Phanindra    | cs24m121     |
+| Kodela Phanindra    | CS24M121     |
 
 ---
 
